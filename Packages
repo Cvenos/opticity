@@ -17,13 +17,28 @@ Package: com.opticity.noctis12
 Section: Tweaks
 Maintainer: Optic <opticranger2702@gmail.com>
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.1-1+debug
 Depends: mobilesubstrate
 Filename: /debs/Noctis12.deb
-Size: 
+Size: 188112
 MD5sum: 8cc902d161367fae1a14be1873b9e638
 SHA1: ac86870b32678a3a78f49f64bd589d957b6f8a9f
 SHA256: 7c7f218ed48f5a3ce4ab520e4cd49e26d49896fb732898eab2bebffca56868ba
 Description: Noctis12 - System Wide Dark Mode for iOS
 Name: Noctis12
+Author: Opticity Repository opticranger2702@gmail.com
+
+Package: com.opticity.realcc
+Section: Tweaks
+Maintainer: Optic <opticranger2702@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.1
+Depends: mobilesubstrate
+Filename: /debs/realcc_1.0.1.deb
+Size: 3712
+MD5sum: 089f4dedb54c52f1e6f1ef2d7e25100d
+SHA1: c6248b022c51d7d2ad208467b5ac155571c23a54
+SHA256: bb20242cbae40177002e9b74276001d136c17c00ed47b2a989da05077b393161
+Description: RealCC - Actually disable Wi-Fi and Bluetooth from the iOS 12 Control Center
+Name: RealCC
 Author: Opticity Repository opticranger2702@gmail.com
