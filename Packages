@@ -4,7 +4,7 @@ Maintainer: Optic <opticranger2702@gmail.com>
 Architecture: iphoneos-arm
 Version: 0.0_beta1
 Depends: mobilesubstrate
-Filename: /lockanim_0.0_beta1
+Filename: /debs/lockanim_0.0_beta1
 Size: 35724
 MD5sum: cb9bb432cba19ea7caddb8ac05d34d80
 SHA1: f38a6228fefd9f25c0d9abd7bce4e6f3a66235c1
@@ -13,3 +13,17 @@ Description: Customize your animation when locking your device.
 Name: LockAnim
 Author: Opticity Repository opticranger2702@gmail.com
 
+Package: com.opticity.noctis12
+Section: Tweaks
+Maintainer: Optic <opticranger2702@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.0
+Depends: mobilesubstrate
+Filename: /debs/Noctis12.deb
+Size: 
+MD5sum: 8cc902d161367fae1a14be1873b9e638
+SHA1: ac86870b32678a3a78f49f64bd589d957b6f8a9f
+SHA256: 7c7f218ed48f5a3ce4ab520e4cd49e26d49896fb732898eab2bebffca56868ba
+Description: Noctis12 - System Wide Dark Mode for iOS
+Name: Noctis12
+Author: Opticity Repository opticranger2702@gmail.com
