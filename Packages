@@ -33,7 +33,7 @@ Architecture: iphoneos-arm
 Version: 1.1-1+debug
 Section: Tweaks
 Maintainer: Chris
-Depends: mobilesubstrate,
+Depends: mobilesubstrate
 Filename: /debs/Noctis12.deb
 Size: 188112
 MD5sum: 8cc902d161367fae1a14be1873b9e638
