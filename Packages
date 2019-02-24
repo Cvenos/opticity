@@ -33,7 +33,7 @@ Version: 0.2-93+debug
 Architecture: iphoneos-arm
 Maintainer: Chris <opticranger2702@gmail.com>
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist
-Filename: debs//com.opticity.noctis12.deb
+Filename: debs/com.opticity.noctis12.deb
 Size: 188112
 MD5sum: 8cc902d161367fae1a14be1873b9e638
 SHA1: ac86870b32678a3a78f49f64bd589d957b6f8a9f
