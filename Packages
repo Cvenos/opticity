@@ -13,20 +13,17 @@ Description: Customize your animation when locking your device.
 Name: LockAnim
 Author: Opticity Repository opticranger2702@gmail.com
 
-Package: com.opticity.realcc
-Section: Tweaks
+Author: Jake James
 Maintainer: Chris <opticranger2702@gmail.com>
-Architecture: iphoneos-arm
-Version: 1.0.1
-Depends: mobilesubstrate
-Filename: /debs/realcc_1.0.1.deb
-Size: 3712
-MD5sum: 089f4dedb54c52f1e6f1ef2d7e25100d
-SHA1: c6248b022c51d7d2ad208467b5ac155571c23a54
-SHA256: bb20242cbae40177002e9b74276001d136c17c00ed47b2a989da05077b393161
-Description: RealCC - Actually disable Wi-Fi and Bluetooth from the iOS 12 Control Center
 Name: RealCC
-Author: Opticity Repository opticranger2702@gmail.com
+Package: com.opticity.realcc
+Depends: firmware (>= 11.0), mobilesubstrate
+Section: Tweaks
+Size: 3712
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Actually disable Wi-Fi from the iOS 12 Control Center
+Tag: compatible::ios12
 
 Package: com.opticity.noctis12
 Name: Noctis12
