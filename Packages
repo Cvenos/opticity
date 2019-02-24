@@ -24,6 +24,8 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Actually disable Wi-Fi from the iOS 12 Control Center
 Tag: compatible::ios12
+Filename: /debs/realcc_1.0.1.deb
+MD5sum: 22aac23109e23256e3728475b09f760f
 
 Package: com.opticity.noctis12
 Name: Noctis12
