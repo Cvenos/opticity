@@ -33,13 +33,12 @@ Architecture: iphoneos-arm
 Version: 1.1-1+debug
 Section: Tweaks
 Maintainer: Chris
-Depends: mobilesubstrate, ccsupport, libsparkapplist, rocketbootstrap
+Depends: mobilesubstrate,
 Filename: /debs/Noctis12.deb
 Size: 188112
 MD5sum: 8cc902d161367fae1a14be1873b9e638
 Homepage: https://twitter.com/opticranger2702
 Description: Noctis12 - System Wide Dark Mode for iOS
-Name: Noctis12
 Name: Noctis12
 Author: LaughingQuoll
 Depiction: https://github.com/Cvenos/opticityrepo
