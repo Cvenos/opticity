@@ -29,16 +29,16 @@ Name: RealCC
 Author: Opticity Repository opticranger2702@gmail.com
 
 Package: com.opticity.noctis12
+Version: 0.2-93+debug
 Architecture: iphoneos-arm
-Version: 1.1-1+debug
-Section: Tweaks
-Maintainer: Chris
-Depends: mobilesubstrate
-Filename: /debs/Noctis12.deb
+Maintainer: Chris <opticranger2702@gmail.com>
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist
+Filename: debs//com.opticity.noctis12.deb
 Size: 188112
 MD5sum: 8cc902d161367fae1a14be1873b9e638
-Homepage: https://twitter.com/opticranger2702
-Description: Noctis12 - System Wide Dark Mode for iOS
+SHA1: ac86870b32678a3a78f49f64bd589d957b6f8a9f
+SHA256: 7c7f218ed48f5a3ce4ab520e4cd49e26d49896fb732898eab2bebffca56868ba
+Section: Tweaks
+Description: Noctis12 - System Wide Dark Mode for iOS 12
+Author: Chris <opticranger2702@gmail.com>
 Name: Noctis12
-Author: LaughingQuoll
-Depiction: https://github.com/Cvenos/opticityrepo
