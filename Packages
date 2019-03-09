@@ -1,17 +1,16 @@
 Package: com.opticity.lockanim
-Name: LockAnim
-Version: 0.0_beta1
+Name: Lock Anim
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Description: Customize your animation when locking your device.
-Maintainer: Chris <opticranger2702@gmail.com>
-Author: Opticity Repository
+Description: Lock Animations
+Maintainer: Opticity
+Author: julioverne
 Section: Tweaks
-Depends: mobilesubstrate
-Filename: /debs/lockanim_0.0_beta1
-Size: 35724
-MD5sum: cb9bb432cba19ea7caddb8ac05d34d80
-SHA1: f38a6228fefd9f25c0d9abd7bce4e6f3a66235c1
-SHA256: 3de1c2b79d04c149d94fe57df5795f75c87b9bb7d8ce08cc81c053269f41799a
+Version: 0.0~beta4
+Filename: /debs/lockanim_0.0_beta4.deb
+MD5sum: 009f7fd0b3196a047def4b7d17fc06a6
+SHA1: 7d8b4040d88d5efac8c7e7399b798909b136dc0b
+SHA256: 82617ba79bc16e995eee4d137b03d2617013beec735abcc53c8aeec4892bdfa7
 
 Author: Jake James
 Maintainer: Chris <opticranger2702@gmail.com>
@@ -54,17 +53,17 @@ MD5sum: 0ad7d8c7e3bf6a9570b5094817149386
 SHA1: d9143fe9d81b691fa916a506627152a6430aaf7f
 SHA256: bbe3732798ce0dda999986e28df38f98796229370ed6e5d5b4c16eb61e2e45f6
 
-Package: com.opticity.zeppelin
+Package: com.opticity.
 Name: Zeppelin
-Depends: firmware (>= 4.2), mobilesubstrate, preferenceloader
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: A MobileSubstrate tweak to get easy Carrier Logo switching to iOS. Works on all iDevices 4.2+.
+Description: 
 Maintainer: Opticity
-Author: Alex Zielenski
-Section: Tweaks
-Version: 2.1.0-12
-Filename: /debs/Zeppelin.deb
-Size: 953908
-MD5sum: 0ae2f85b8b4e19305190f5ab031487f9
-SHA1: 4b76deae92c89b1e7aac64e17b653f7687ef9434
-SHA256: 8d21d392b67c1daadf6f5996fad6e54ecae5ee8667fa2f4ce57e4edea8124a2a
+Author: 
+Section: 
+Version: 
+Filename: /debs/
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
