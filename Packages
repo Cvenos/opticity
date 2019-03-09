@@ -1,5 +1,5 @@
 Package: com.opticity.lockanim
-Name: Lock Anim
+Name: LockAnim
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Description: Lock Animations
