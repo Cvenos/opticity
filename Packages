@@ -68,3 +68,18 @@ Size: 172760
 MD5sum: 911260853064359fa4e7b84874863751
 SHA1: da80e26a3651d3395d3314e2c8393a4c88de0107
 SHA256: e54e98a71a90ebae1a96fe5d8da1c9fc787c6f76c70a96f9be751e14925d5f4f
+
+Package: com.opticity.cylinder
+Name: Cylinder
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Make your icons dance
+Maintainer: Opticity
+Author: Reed Weichler
+Section: Tweaks
+Version: 1.0.6
+Filname: /debs/cylinder_1.0.6.deb
+Size: 332248
+MD5sum: 0ec2008c445243fa492f4120eab123b7
+SHA1: 493649fd279840e35c2cbaf1a25e791d4c0a54ea
+SHA256: 4fec666f86a6ee402dc3d349847439871345b82fb89defe4e47dac6dc8d4b070

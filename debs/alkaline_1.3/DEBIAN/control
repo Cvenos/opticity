@@ -1,9 +1,0 @@
-Package: com.opticity.alkaline
-Name: Alkaline
-Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Description: Themeable status bar battery replacement for iOS 7.
-Maintainer: Opticity
-Author: magn2o
-Section: Tweaks
-Version: 1.3
