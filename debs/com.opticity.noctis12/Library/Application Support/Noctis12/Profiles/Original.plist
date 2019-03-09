@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blurRadius</key>
+	<real>25</real>
+	<key>bodyOverlayAlpha</key>
+	<real>0.20000000000000001</real>
+	<key>colorBurnTintAlpha</key>
+	<real>0.5</real>
+	<key>colorBurnTintLevel</key>
+	<real>0.0</real>
+	<key>colorOffsetAlpha</key>
+	<real>1</real>
+	<key>colorTintAlpha</key>
+	<real>1</real>
+	<key>colorTintMaskAlpha</key>
+	<real>0.40000000000000002</real>
+	<key>darkeningTintAlpha</key>
+	<real>1</real>
+	<key>darkeningTintBrightness</key>
+	<real>1</real>
+	<key>darkeningTintHue</key>
+	<real>0.80000000000000004</real>
+	<key>darkeningTintSaturation</key>
+	<real>0.0</real>
+	<key>grayscaleTintAlpha</key>
+	<real>0.29999999999999999</real>
+	<key>grayscaleTintLevel</key>
+	<real>0.29999999999999999</real>
+	<key>headerOverlayAlpha</key>
+	<real>0.40000000000000002</real>
+	<key>isStockProfile</key>
+	<true/>
+	<key>lightenGrayscaleWithSourceOver</key>
+	<true/>
+	<key>outlineBoarder</key>
+	<false/>
+	<key>profileName</key>
+	<string>Original</string>
+	<key>saturationDeltaFactor</key>
+	<real>2</real>
+	<key>usesColorBurnTintView</key>
+	<true/>
+	<key>usesColorOffset</key>
+	<true/>
+	<key>usesColorTintView</key>
+	<true/>
+	<key>usesDarkeningTintView</key>
+	<true/>
+	<key>usesGrayscaleTintView</key>
+	<true/>
+</dict>
+</plist>

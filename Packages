@@ -1,17 +1,17 @@
 Package: com.opticity.lockanim
-Section: Tweaks
-Maintainer: Chris <opticranger2702@gmail.com>
-Architecture: iphoneos-arm
+Name: LockAnim
 Version: 0.0_beta1
+Architecture: iphoneos-arm
+Description: Customize your animation when locking your device.
+Maintainer: Chris <opticranger2702@gmail.com>
+Author: Opticity Repository
+Section: Tweaks
 Depends: mobilesubstrate
 Filename: /debs/lockanim_0.0_beta1
 Size: 35724
 MD5sum: cb9bb432cba19ea7caddb8ac05d34d80
 SHA1: f38a6228fefd9f25c0d9abd7bce4e6f3a66235c1
 SHA256: 3de1c2b79d04c149d94fe57df5795f75c87b9bb7d8ce08cc81c053269f41799a
-Description: Customize your animation when locking your device.
-Name: LockAnim
-Author: Opticity Repository opticranger2702@gmail.com
 
 Author: Jake James
 Maintainer: Chris <opticranger2702@gmail.com>
@@ -30,11 +30,26 @@ MD5sum: 22aac23109e23256e3728475b09f760f
 Package: com.opticity.noctis12
 Name: Noctis12
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist
-Conflicts: com.laughingquoll.noctisxi
 Architecture: iphoneos-arm
-Description: Noctis12 - System Wide Dark Mode for iOS 12
-Maintainer: Chris
-Author: LaughingQuoll
+Description: Noctis12 - System Wide Dark Mode for iOS
+Maintainer: Opticity
+Author: Opticity Repository
 Section: Tweaks
 Version: 0.2-93+debug
 Installed-Size: 1272
+Tag: compatible::ios12
+
+Package: com.opticity.amury
+Name: Amury
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Amury Theme
+Maintainer: Opticity
+Author: Opticity Repository
+Section: Themes
+Version: 1.0
+Filename: /debs/Amury.deb
+Size: 6499272
+MD5sum: 6deb26bc9c23470b27e6183ed87e4871
+SHA1: 4a799c23624fa86eb63c6ac6e58fbdeb5ca2b21c
+SHA256: 2cc592a35e6e3e271360a3874bca095c02c57d2b78caa74704f772339ba13ed4

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isStockProfile</key>
+	<true/>
+	<key>primaryColor</key>
+	<string>ff5349</string>
+	<key>profileName</key>
+	<string>Sunset</string>
+	<key>secondaryColor</key>
+	<string>fd5e53</string>
+	<key>secondaryTextColor</key>
+	<string>FFFFFF</string>
+	<key>textColor</key>
+	<string>FFFFFF</string>
+	<key>tintColor</key>
+	<string>FFFFFF</string>
+</dict>
+</plist>
