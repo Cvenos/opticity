@@ -69,17 +69,18 @@ MD5sum: 911260853064359fa4e7b84874863751
 SHA1: da80e26a3651d3395d3314e2c8393a4c88de0107
 SHA256: e54e98a71a90ebae1a96fe5d8da1c9fc787c6f76c70a96f9be751e14925d5f4f
 
-Package: com.opticity.cylinder
-Name: Cylinder
-Depends: mobilesubstrate, preferenceloader
+Package: com.opticity.callbarxs
+Name: CallBar XS
+Depends: mobilesubstrate, preferenceloader, firmware (>=12)
+Conflicts: net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Architecture: iphoneos-arm
-Description: Make your icons dance
+Description: Don't let incoming calls interrupt you!
 Maintainer: Opticity
-Author: Reed Weichler
+Author: Elias Limneos
 Section: Tweaks
-Version: 1.0.6
-Filename: /debs/cylinder_1.0.6.deb
-Size: 332248
-MD5sum: 0ec2008c445243fa492f4120eab123b7
-SHA1: 493649fd279840e35c2cbaf1a25e791d4c0a54ea
-SHA256: 4fec666f86a6ee402dc3d349847439871345b82fb89defe4e47dac6dc8d4b070
+Version: 2.-22
+Filename: /debs/callbarxs_2.1-22.deb
+Size: 215250
+MD5sum: 44a5226a82b560814441dffe30ecc0a3
+SHA1: 5870f2ca4682245223ee5cc492713f74f6b66394
+SHA256: 9d907c7ad3b6c6db45ff794aec5b683cd8b07bfeef4be51996561633bce72aa6
