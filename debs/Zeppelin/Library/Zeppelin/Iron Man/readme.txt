@@ -1,1 +1,0 @@
-This Iron Man logo was crafted and generously donated to Zeppelin by Luke Voysey (@Sk37cHi)

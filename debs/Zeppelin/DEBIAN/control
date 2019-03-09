@@ -1,9 +1,0 @@
-Package: com.opticity.zeppelin
-Name: Zeppelin
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: A MobileSubstrate tweak to get easy Carrier Logo switching to iOS. Works on all iDevices 4.2+.
-Maintainer: Opticity
-Author: Alex Zielenski
-Section: Tweaks
-Version: 2.1.0-12

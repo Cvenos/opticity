@@ -56,7 +56,7 @@ SHA256: bbe3732798ce0dda999986e28df38f98796229370ed6e5d5b4c16eb61e2e45f6
 
 Package: com.opticity.zeppelin
 Name: Zeppelin
-Depends: mobilesubstrate
+Depends: firmware (>= 4.2), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Description: A MobileSubstrate tweak to get easy Carrier Logo switching to iOS. Works on all iDevices 4.2+.
 Maintainer: Opticity
