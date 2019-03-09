@@ -1,0 +1,38 @@
+====
+Alkaline Theming Documentation (UPDATED: 02/22/2014)
+====
+
+A theme consists of roughly 204 images with a specific naming convention:
+
+- (Black|Color)_Battery(Draining|Charging)BG@2x.png           [OPTIONAL]
+- (Black|Color)_Battery(Draining|Charging)Insides_[#]@2x.png  [REQUIRED]
+- (Black|Color)_Battery(Draining|Charging)Overlay_[#]@2x.png  [OPTIONAL]
+
+Please note, ALL IMAGES MUST HAVE THE SAME DIMENSIONS.
+
+====
+Filename Anatomy
+====
+
+First, the way the images work -- each battery "state" that you see in your statusbar is actually a representation of up to 3 images. The bottom (or first) layer being the BG file, which generally consists of the "outline" or general shape of the battery with nothing on the inside (the image width of this file must match that of the widest "Insides" image). The middle layer is the "Insides" image, this should be the image that represents the current battery level and/or charging state. The top layer is the "Overlay" image, which is entirely optional. You are not limited to the design or shape of either of these images, but just be aware of how they work.
+
+Next, the (Black|Color). Files prefixed with "Black" will be rendered in both black and white respectively -- you no longer need both thanks to tinting. However, files prefixed with "Color" will be displayed as-is without ANY tinting whatsoever. So, if you want to display a green image -- then prefix it with "Color" -- but be aware that it will display in green in ALL cases, whether the statusbar is black, white, or something in the middle.
+
+Example:
+If you want to show battery percentages 20-0 in red, you would create red images named: Color_BlackDrainingInsides_20@2x.png, Color_BlackDrainingInsides_19@2x.png, etc. all the way to 0.
+
+Finally, the (Draining|Charging) values. These images represent whether the battery is currently draining (in use) or charging (duh.. plugged in to power). You can show different states depending on the power mode (eg. show a charging bolt when plugged in to power, etc).
+
+You're free to roam here, so have fun. I can't wait to see what some of you come up with.
+
+
+====
+Notes
+====
+
+"Color" files take precedence over "Black" files. For example, if you have the following 2 files:
+
+Black_BatteryDrainingBG@2x.png
+Color_BatteryDrainingBG@2x.png
+
+Then the Color_BatteryDrainingBG@2x.png will be used, and the Black one will be ignored.

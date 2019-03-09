@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = AlkalineSettings;
+	cell = PSLinkCell;
+	detail = AlkalineSettingsListController;
+	icon = Icon.png;
+	isController = 1;
+	label = Alkaline;
+    };
+}
