@@ -45,11 +45,11 @@ Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Description: Amury Theme
 Maintainer: Opticity
-Author: Opticity Repository
+Author: Alex Sanchez
 Section: Themes
-Version: 1.0
+Version: 1.8
 Filename: /debs/Amury.deb
 Size: 6499272
-MD5sum: 6deb26bc9c23470b27e6183ed87e4871
-SHA1: 4a799c23624fa86eb63c6ac6e58fbdeb5ca2b21c
-SHA256: 2cc592a35e6e3e271360a3874bca095c02c57d2b78caa74704f772339ba13ed4
+MD5sum: 0ad7d8c7e3bf6a9570b5094817149386
+SHA1: d9143fe9d81b691fa916a506627152a6430aaf7f
+SHA256: bbe3732798ce0dda999986e28df38f98796229370ed6e5d5b4c16eb61e2e45f6
