@@ -65,6 +65,6 @@ Section: Tweaks
 Version: 2.1.0-12
 Filename: /debs/Zeppelin.deb
 Size: 953908
-MD5sum: ba3994edfd8d1a5a405f77aab09720e6
-SHA1: d37243253f9bd3ab8b842c36bf4440400d607cbb
-SHA256: 9b84e62dc89e344da8990c1e384e5cd0a8b76372c4dea8c0055f950d7683e0c2
+MD5sum: 0ae2f85b8b4e19305190f5ab031487f9
+SHA1: 4b76deae92c89b1e7aac64e17b653f7687ef9434
+SHA256: 8d21d392b67c1daadf6f5996fad6e54ecae5ee8667fa2f4ce57e4edea8124a2a
