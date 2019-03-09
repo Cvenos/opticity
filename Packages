@@ -63,7 +63,7 @@ Maintainer: Opticity
 Author: Alex Zielenski
 Section: Tweaks
 Version: 2.1.0-12
-Filename: /debs/Zeppelin
+Filename: /debs/Zeppelin.deb
 Size: 953908
 MD5sum: ba3994edfd8d1a5a405f77aab09720e6
 SHA1: d37243253f9bd3ab8b842c36bf4440400d607cbb
