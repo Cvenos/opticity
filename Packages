@@ -53,3 +53,18 @@ Size: 6499268
 MD5sum: 0ad7d8c7e3bf6a9570b5094817149386
 SHA1: d9143fe9d81b691fa916a506627152a6430aaf7f
 SHA256: bbe3732798ce0dda999986e28df38f98796229370ed6e5d5b4c16eb61e2e45f6
+
+Package: com.opticity.zeppelin
+Name: Zeppelin
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: A MobileSubstrate tweak to get easy Carrier Logo switching to iOS. Works on all iDevices 4.2+.
+Maintainer: Opticity
+Author: Alex Zielenski
+Section: Tweaks
+Version: 2.1.0-12
+Filename: /debs/Zeppelin
+Size: 953908
+MD5sum: ba3994edfd8d1a5a405f77aab09720e6
+SHA1: d37243253f9bd3ab8b842c36bf4440400d607cbb
+SHA256: 9b84e62dc89e344da8990c1e384e5cd0a8b76372c4dea8c0055f950d7683e0c2
