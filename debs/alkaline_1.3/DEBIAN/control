@@ -1,6 +1,6 @@
 Package: com.opticity.alkaline
 Name: Alkaline
-Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Description: Themeable status bar battery replacement for iOS 7.
 Maintainer: Opticity
