@@ -83,3 +83,18 @@ Size: 332248
 MD5sum: 0ec2008c445243fa492f4120eab123b7
 SHA1: 493649fd279840e35c2cbaf1a25e791d4c0a54ea
 SHA256: 4fec666f86a6ee402dc3d349847439871345b82fb89defe4e47dac6dc8d4b070
+
+Package: com.opticity.lotus
+Name: Lotus
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: A simple subtle theme
+Maintainer: Opticity
+Author: orenjiiiro
+Section: Themes
+Version: 1.0
+Filename: /debs/Lotus.deb
+Size: 6879172
+MD5sum: bc2775367da5b4f912ae0d7bd192f42f
+SHA1: 71b8329ac32021c6fd65de525de5dec8ab1faedc
+SHA256: c47e4869d5235fef76068704eae86b21db7ba99b6dff34b7c96042abf6210dac
