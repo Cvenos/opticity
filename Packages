@@ -13,19 +13,20 @@ MD5sum: 009f7fd0b3196a047def4b7d17fc06a6
 SHA1: 7d8b4040d88d5efac8c7e7399b798909b136dc0b
 SHA256: 82617ba79bc16e995eee4d137b03d2617013beec735abcc53c8aeec4892bdfa7
 
-Author: Jake James
-Maintainer: Chris <opticranger2702@gmail.com>
-Name: RealCC
 Package: com.opticity.realcc
-Depends: firmware (>= 11.0), mobilesubstrate
-Section: Tweaks
-Size: 3712
-Version: 1.0.1
+Name: RealCC
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Actually disable Wi-Fi from the iOS 12 Control Center
-Tag: compatible::ios12
+Maintainer: Opticity
+Author: Jake James
+Section: Tweaks
+Version: 1.0.1
 Filename: /debs/realcc_1.0.1.deb
-MD5sum: 22aac23109e23256e3728475b09f760f
+Size: 4166
+MD5sum: d45cfc0201485f0ce5a011d8ce9bb659
+SHA1: f17d09be6eda6f6c3d55f06fa28679f74dca18c7
+SHA256: 2297e6977ddeadc00ef83b6cf4ca63957c5bd2c74516d72b37f276d065f8bc90
 
 Package: com.opticity.noctis12
 Name: Noctis12
@@ -36,7 +37,7 @@ Maintainer: Opticity
 Author: Opticity Repository
 Section: Tweaks
 Version: 0.2-93+debug
-Installed-Size: 1272
+Size: 1272
 Tag: compatible::ios12
 
 Package: com.opticity.amury
