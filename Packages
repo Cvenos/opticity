@@ -8,7 +8,7 @@ Author: julioverne
 Section: Tweaks
 Size: 132318
 Version: 0.0~beta4
-Filename: /debs/lockanim_0.0_beta4.deb
+Filename: /debs/com.opticity.lockanim_0.0_beta4.deb
 Tag: compatible::ios12
 MD5sum: 009f7fd0b3196a047def4b7d17fc06a6
 SHA1: 7d8b4040d88d5efac8c7e7399b798909b136dc0b
@@ -23,7 +23,7 @@ Maintainer: Opticity
 Author: Jake James
 Section: Tweaks
 Version: 1.0.1
-Filename: /debs/realcc_1.0.1.deb
+Filename: /debs/com.opticity.realcc_1.0.1.deb
 Size: 4166
 Tag: compatible::ios12
 MD5sum: d45cfc0201485f0ce5a011d8ce9bb659
@@ -56,7 +56,7 @@ Maintainer: Opticity
 Author: Alex Sanchez
 Section: Themes
 Version: 1.8
-Filename: /debs/Amury.deb
+Filename: /debs/com.opticity.amury.deb
 Size: 6499268
 Tag: compatible::ios12
 MD5sum: 0ad7d8c7e3bf6a9570b5094817149386
@@ -72,7 +72,7 @@ Maintainer: Opticity
 Author: magn2o
 Section: Tweaks
 Version: 1.3
-Filename: /debs/alkaline_1.3.deb
+Filename: /debs/com.opticty.alkaline_1.3.deb
 Size: 172760
 Tag: compatible::ios12
 MD5sum: 911260853064359fa4e7b84874863751
@@ -88,7 +88,7 @@ Maintainer: Opticity
 Author: Reed Weichler
 Section: Tweaks
 Version: 1.0.6
-Filename: /debs/cylinder_1.0.6.deb
+Filename: /debs/com.opticity.cylinder_1.0.6.deb
 Size: 332248
 Tag: compatible::ios12
 MD5sum: 0ec2008c445243fa492f4120eab123b7
@@ -104,7 +104,7 @@ Maintainer: Opticity
 Author: orenjiiiro
 Section: Themes
 Version: 1.0
-Filename: /debs/Lotus.deb
+Filename: /debs/com.opticity.lotus.deb
 Size: 6879172
 Tag: compatible::ios12
 MD5sum: bc2775367da5b4f912ae0d7bd192f42f
