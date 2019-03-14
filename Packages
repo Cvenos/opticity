@@ -127,3 +127,18 @@ Tag: compatible::ios12
 MD5sum: ce416e9f3691e751fd755bfdd972e7ad
 SHA1: f983122c733737f740f8f9e06e522c522e8814ee
 SHA256: e42f2f9eac4c3cdc9cbc196e243a967fd4f654317249f275c42f0f2c5bc64154
+
+Package: com.opticity.libsparkapplist
+Name: libSparkAppList
+Architecture: iphoneos-arm
+Description: AppList alternative
+Maintainer: Opticity
+Author: Spark
+Section: System
+Version: 1.0.1-1
+Filename: /debs/com.opticity.libsparkapplist_1.0.1-1.deb
+Size: 35120
+Tag: compatible::ios12
+MD5sum: 9bee021b2c619ce78ad96a4c2369e1fe
+SHA1: 9796b84d19579a7c30ebf0760a3e4fb873497fc9
+SHA256: 6fb7cf116d9ab76b85c1cef6d6bd646ed4fadfd09733df83db8dfc11ae0cd51d
