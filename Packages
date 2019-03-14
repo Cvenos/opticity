@@ -151,11 +151,13 @@ Architecture: iphoneos-arm
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Maintainer: Opticity
 Author: TIGI Software
-Section: Utilities
+Tags: purpose::uikit, compatible::ios12
+Section: Applications
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
 Version: 3.6.4
 Filename: /debs/filzafilemanager_3.6.4.deb
-Size: 12393686
+Size: 12394338
 Tags: purpose::uikit, compatible::ios12
-MD5sum: 4dea35bfe8fd6accc11f439882f42ed2
-SHA1: 5763e812afdb81e11b4add670c68457fb96fa32f
-SHA256: d65a66fc8955509a2bfb6299adae0e5fef73397edc53b10cf5b84d2c7713ef28
+MD5sum: f729abe42568f669f8acdf5c7b3827f7
+SHA1: ec8bcb3117cd9c320703853ef3919e975964591e
+SHA256: b1b6faaada7a38c1912d508562cab0f55546d803bc4fa1e4a7367bad114cb1af
