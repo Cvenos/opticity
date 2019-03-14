@@ -110,3 +110,20 @@ Tag: compatible::ios12
 MD5sum: bc2775367da5b4f912ae0d7bd192f42f
 SHA1: 71b8329ac32021c6fd65de525de5dec8ab1faedc
 SHA256: c47e4869d5235fef76068704eae86b21db7ba99b6dff34b7c96042abf6210dac
+
+Package: com.opticity.noctisxi
+Name: NoctisXI
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.laughingquoll.prefixui, com.opticity.libsparkapplist
+Conflicts: com.laughingquoll.noctis12, com.opticity.noctis12
+Architecture: iphoneos-arm
+Description: A system Wide Dark Mode for iOS
+Maintainer: Opticity
+Author: LaughingQuoll
+Section: Tweaks
+Version: 1.6.6
+Filename: /debs/com.opticity.noctisxi_1.6.6.deb
+Size: 142510
+Tag: compatible::ios12
+MD5sum: ce416e9f3691e751fd755bfdd972e7ad
+SHA1: f983122c733737f740f8f9e06e522c522e8814ee
+SHA256: e42f2f9eac4c3cdc9cbc196e243a967fd4f654317249f275c42f0f2c5bc64154
