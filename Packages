@@ -9,7 +9,7 @@ Section: Tweaks
 Size: 132318
 Version: 0.0~beta4
 Filename: /debs/com.opticity.lockanim_0.0_beta4.deb
-Tags: compatible::ios12
+Tag: compatible::ios12
 MD5sum: 009f7fd0b3196a047def4b7d17fc06a6
 SHA1: 7d8b4040d88d5efac8c7e7399b798909b136dc0b
 SHA256: 82617ba79bc16e995eee4d137b03d2617013beec735abcc53c8aeec4892bdfa7
@@ -25,7 +25,7 @@ Section: Tweaks
 Version: 1.0.1
 Filename: /debs/com.opticity.realcc_1.0.1.deb
 Size: 4166
-Tags: compatible::ios12
+Tag: compatible::ios12
 MD5sum: d45cfc0201485f0ce5a011d8ce9bb659
 SHA1: f17d09be6eda6f6c3d55f06fa28679f74dca18c7
 SHA256: 2297e6977ddeadc00ef83b6cf4ca63957c5bd2c74516d72b37f276d065f8bc90
@@ -42,7 +42,7 @@ Section: Tweaks
 Version: 1.3.2
 Filename: /debs/com.opticity.noctis12_1.3.2.deb
 Size: 220252
-Tags: compatible::ios12
+Tag: compatible::ios12
 MD5sum: b715cea53e83fd86c2508d78da7b2ea1
 SHA1: 0f82ae0ac4d692f94aa1e1ac74c91105cc6a1b37
 SHA256:efde5e7db875eb22d8c238479ce3cf4eab6bd96ad21ecd122e2ccbc493348aaa
@@ -58,7 +58,7 @@ Section: Themes
 Version: 1.8
 Filename: /debs/com.opticity.amury.deb
 Size: 6499268
-Tags: compatible::ios12
+Tag: compatible::ios12
 MD5sum: 0ad7d8c7e3bf6a9570b5094817149386
 SHA1: d9143fe9d81b691fa916a506627152a6430aaf7f
 SHA256: bbe3732798ce0dda999986e28df38f98796229370ed6e5d5b4c16eb61e2e45f6
@@ -74,7 +74,7 @@ Section: Tweaks
 Version: 1.3
 Filename: /debs/com.opticty.alkaline_1.3.deb
 Size: 172760
-Tags: compatible::ios12
+Tag: compatible::ios12
 MD5sum: 911260853064359fa4e7b84874863751
 SHA1: da80e26a3651d3395d3314e2c8393a4c88de0107
 SHA256: e54e98a71a90ebae1a96fe5d8da1c9fc787c6f76c70a96f9be751e14925d5f4f
@@ -90,7 +90,7 @@ Section: Tweaks
 Version: 1.0.6
 Filename: /debs/com.opticity.cylinder_1.0.6.deb
 Size: 332248
-Tags: compatible::ios12
+Tag: compatible::ios12
 MD5sum: 0ec2008c445243fa492f4120eab123b7
 SHA1: 493649fd279840e35c2cbaf1a25e791d4c0a54ea
 SHA256: 4fec666f86a6ee402dc3d349847439871345b82fb89defe4e47dac6dc8d4b070
@@ -106,7 +106,7 @@ Section: Themes
 Version: 1.0
 Filename: /debs/com.opticity.lotus.deb
 Size: 6879172
-Tags: compatible::ios12
+Tag: compatible::ios12
 MD5sum: bc2775367da5b4f912ae0d7bd192f42f
 SHA1: 71b8329ac32021c6fd65de525de5dec8ab1faedc
 SHA256: c47e4869d5235fef76068704eae86b21db7ba99b6dff34b7c96042abf6210dac
@@ -123,7 +123,7 @@ Section: Tweaks
 Version: 1.6.6
 Filename: /debs/com.opticity.noctisxi_1.6.6.deb
 Size: 142510
-Tags: compatible::ios12
+Tag: compatible::ios12
 MD5sum: ce416e9f3691e751fd755bfdd972e7ad
 SHA1: f983122c733737f740f8f9e06e522c522e8814ee
 SHA256: e42f2f9eac4c3cdc9cbc196e243a967fd4f654317249f275c42f0f2c5bc64154
@@ -138,7 +138,7 @@ Section: System
 Version: 1.0.1-1
 Filename: /debs/com.opticity.libsparkapplist_1.0.1-1.deb
 Size: 35120
-Tags: compatible::ios12
+Tag: compatible::ios12
 MD5sum: 9bee021b2c619ce78ad96a4c2369e1fe
 SHA1: 9796b84d19579a7c30ebf0760a3e4fb873497fc9
 SHA256: 6fb7cf116d9ab76b85c1cef6d6bd646ed4fadfd09733df83db8dfc11ae0cd51d
@@ -157,7 +157,23 @@ Icon: file:///Applications/Filza.app/AppIcon57x57.png
 Version: 3.6.4
 Filename: /debs/filzafilemanager_3.6.4.deb
 Size: 12394362
-Tags: purpose::uikit, compatible::ios12
+Tag: purpose::uikit, compatible::ios12
 MD5sum: e63074d0e495f06d0d6a5743e7be9e5e
 SHA1: 01d0f43f8a95253cb3134cad77a13844b5b3451c
 SHA256: 1d45c5bd335bf18c74331a01e4a245d30ba835125fcc29caaab06b15d0abf07d
+
+Package: com.opticity.haptickeyboard
+Name: HapticKeyboard
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Taptic feedback for keyboard.
+Maintainer: Opticity
+Author: cole cabral @ca13ra
+Section: Tweaks
+Version: 1.0
+Filename : /debs/com.opticity.haptickeyboard
+Size: 20026 Bytes
+Tag: compatible::ios12
+MD5sum: fbbf0cf1f20d47a27eaec6bff9cb8777
+SHA1: 9da2c4affc4f09488615fcc68ac82d64adef564c
+SHA256: fc36888327f0ec005a18bb3724fe4d3344a8b09a7a5e69ef5949c21094d92111
