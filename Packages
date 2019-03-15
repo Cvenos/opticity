@@ -152,12 +152,12 @@ Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Maintainer: Opticity
 Author: TIGI Software
 Tags: purpose::uikit, compatible::ios12
-Section: Applications
+Section: Utilities
 Icon: file:///Applications/Filza.app/AppIcon57x57.png
 Version: 3.6.4
 Filename: /debs/filzafilemanager_3.6.4.deb
-Size: 12394338
+Size: 12394362
 Tags: purpose::uikit, compatible::ios12
-MD5sum: f729abe42568f669f8acdf5c7b3827f7
-SHA1: ec8bcb3117cd9c320703853ef3919e975964591e
-SHA256: b1b6faaada7a38c1912d508562cab0f55546d803bc4fa1e4a7367bad114cb1af
+MD5sum: e63074d0e495f06d0d6a5743e7be9e5e
+SHA1: 01d0f43f8a95253cb3134cad77a13844b5b3451c
+SHA256: 1d45c5bd335bf18c74331a01e4a245d30ba835125fcc29caaab06b15d0abf07d
