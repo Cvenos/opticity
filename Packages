@@ -171,8 +171,8 @@ Author: cole cabral @ca13ra1
 Section: Tweaks
 Version: 1.0.0
 Filename : /debs/com.opticity.haptickeyboard_1.0.0.deb
-Size: 
+Size: 19394
 Tag: compatible::ios12
-MD5sum: 
-SHA1: 
-SHA256: 
+MD5sum: aad62614b94229bc1595a70511e266e0
+SHA1: 9b797b82d068ef1f7d01482885c526e4cd1a26b3
+SHA256: 15e51990ed61f3253735be170d3a2bd8c0b7cc2512c3bf9c6436f6a096ff2711
