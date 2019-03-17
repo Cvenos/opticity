@@ -151,7 +151,6 @@ Architecture: iphoneos-arm
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Maintainer: Opticity
 Author: TIGI Software
-Tags: purpose::uikit, compatible::ios12
 Section: Utilities
 Icon: file:///Applications/Filza.app/AppIcon57x57.png
 Version: 3.6.4
@@ -164,16 +163,16 @@ SHA256: 1d45c5bd335bf18c74331a01e4a245d30ba835125fcc29caaab06b15d0abf07d
 
 Package: com.opticity.haptickeyboard
 Name: HapticKeyboard
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Taptic feedback for keyboard.
 Maintainer: Opticity
-Author: cole cabral @ca13ra
+Author: cole cabral @ca13ra1
 Section: Tweaks
-Version: 1.0
-Filename : /debs/com.opticity.haptickeyboard.deb
-Size: 20026 Bytes
+Version: 1.0.0
+Filename : /debs/com.opticity.haptickeyboard_1.0.0.deb
+Size: 
 Tag: compatible::ios12
-MD5sum: fbbf0cf1f20d47a27eaec6bff9cb8777
-SHA1: 9da2c4affc4f09488615fcc68ac82d64adef564c
-SHA256: fc36888327f0ec005a18bb3724fe4d3344a8b09a7a5e69ef5949c21094d92111
+MD5sum: 
+SHA1: 
+SHA256: 
