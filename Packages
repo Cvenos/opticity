@@ -45,7 +45,24 @@ Size: 220252
 Tag: compatible::ios12
 MD5sum: b715cea53e83fd86c2508d78da7b2ea1
 SHA1: 0f82ae0ac4d692f94aa1e1ac74c91105cc6a1b37
-SHA256:efde5e7db875eb22d8c238479ce3cf4eab6bd96ad21ecd122e2ccbc493348aaa
+SHA256: efde5e7db875eb22d8c238479ce3cf4eab6bd96ad21ecd122e2ccbc493348aaa
+
+Package: com.opticity.noctis12
+Name: Noctis12
+Depends: mobilesubstrate
+Conflicts: com.laughingquoll.noctisxi, com.opticity.noctisxi
+Architecture: iphoneos-arm
+Description: Noctis12 - System Wide Dark Mode for iOS
+Maintainer: Opticity
+Author: LaughingQuoll
+Section: Tweaks
+Version: 1.4
+Filename: /debs/com.opticity.noctis12_1.4.deb
+Size: 223616
+Tag: compatible::ios12
+MD5sum: 6e14db5653edb30eb0d89e965e11a511
+SHA1: 6e14db5653edb30eb0d89e965e11a511
+SHA256: d49a662f86eee08d6a83b66f849c819dc919f4199dcf057c48f8b05daaaa93b5
 
 Package: com.opticity.amury
 Name: Amury
