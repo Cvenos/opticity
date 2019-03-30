@@ -58,11 +58,11 @@ Author: LaughingQuoll
 Section: Tweaks
 Version: 1.4
 Filename: /debs/com.opticity.noctis12_1.4.deb
-Size: 223616
+Size: 223624
 Tag: compatible::ios12
-MD5sum: 6e14db5653edb30eb0d89e965e11a511
-SHA1: 6e14db5653edb30eb0d89e965e11a511
-SHA256: d49a662f86eee08d6a83b66f849c819dc919f4199dcf057c48f8b05daaaa93b5
+MD5sum: c097610bf1147f515ff62216b340d2ea
+SHA1: 3a7cea8782392d22facfa79b7ccc53242b2ee2f4
+SHA256: e33f0dec0496808ffe1f0d96aa867221fdce3b79838be265b2b4cfaa1e5e8e5e
 
 Package: com.opticity.amury
 Name: Amury
