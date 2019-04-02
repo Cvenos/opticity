@@ -160,6 +160,36 @@ MD5sum: 9bee021b2c619ce78ad96a4c2369e1fe
 SHA1: 9796b84d19579a7c30ebf0760a3e4fb873497fc9
 SHA256: 6fb7cf116d9ab76b85c1cef6d6bd646ed4fadfd09733df83db8dfc11ae0cd51d
 
+Package: com.opticity.libsparkapplist
+Name: libSparkAppList
+Architecture: iphoneos-arm
+Description: AppList alternative
+Maintainer: Opticity
+Author: Spark
+Section: System
+Version: 1.0.2
+Filename: /debs/com.opticity.libsparkapplist_1.0.2.deb
+Size: 35200
+Tag: compatible::ios12
+MD5sum: 24665c2897dbe37e0d7858f731461dc9
+SHA1: 65bcf8e215cb2efc8437edf502dfe90168027c0f
+SHA256: 8f521402254dc62c08dbe82d467cf53896b1d109c36312cb173247d8ccc10195
+
+Package: com.opticity.libsparkapplist
+Name: libSparkAppList
+Architecture: iphoneos-arm
+Description: AppList alternative
+Maintainer: Opticity
+Author: Spark
+Section: System
+Version: 1.0.3
+Filename: /debs/com.opticity.libsparkapplist_1.0.3.deb
+Size: 67810
+Tag: compatible::ios12
+MD5sum: 8338df703b9b03f0d8d62a3bc655ec9a
+SHA1: 5563b6d207679cff70174a1ff186a2626594bbe2
+SHA256: 2f58d6a0baed0a7a664da78011d7710e6364061fe5ebaa56c81c76317448190d
+
 Package: com.opticity.filza
 Name: Filza File Manager
 Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
