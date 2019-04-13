@@ -1,0 +1,482 @@
+
+<html>
+<head>
+	<title>ABetterPrivacyforWhatsApp - TheBigBoss.org - iPhone software, apps, games, accesories, ringtones, themes, reviews</title>
+
+	<base target="_blank"/>
+
+	<link rel="stylesheet" type="text/css" href="cydia/newstyle.css"/>
+
+
+
+
+
+
+
+
+
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<meta name ="description" content="A page about iPhone Software." />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0">
+
+
+	<script type="text/javascript">
+		Window.prototype.alert=function(){};
+	</script>
+
+
+	<script type="text/javascript">
+	function moveChildren(src, dest) {
+		one = document.getElementById(src);
+		two = document.getElementById(dest);
+		while (one.hasChildNodes())
+	    	two.appendChild(one.childNodes[0]);
+	}
+	</script>
+
+
+<script type="text/javascript">
+	//adds 'all screenshots' link to inlined screenshots
+	var MakeImgLinks = function() {
+		var images = document.getElementById('description').getElementsByTagName('img');
+		for (var i = 0; i < images.length; i++) {
+			var parent = images[i].parentElement;
+			var element = parent.innerHTML;
+			parent.innerHTML = '<a style="display:block; color:inherit !important;" href="abetterprivacyforwhatsappSS.php" target="_new">' + element + '</a>';
+
+		}
+	};
+	
+	
+//	window.addEventListener("load", MakeImgLinks);
+
+	</script>
+
+
+<script type="text/javascript">
+(function() {
+     var update = function() {
+         if (window.parent != window)
+             parent.postMessage({cytyle: {name: "iframe-y", value: document.body.scrollHeight}}, "*");
+     };
+     window.addEventListener('message', function(event) {
+         var message = event.data.cytyle;
+         if (message == undefined)
+             return;
+         switch (message.name) {
+             case "iframe-y":
+                 var height = message.value;
+                 var iframes = document.getElementsByTagName("iframe");
+                 if (iframes.length != 1)
+                     return;
+                 var iframe = iframes.item(0);
+                 iframe.style.height = height + 'px';
+                 update();
+             break;
+         }
+     }, false);
+     window.addEventListener('DOMContentLoaded', update, false);
+ })();
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-8971385472108689",
+    enable_page_level_ads: true
+  });
+</script></head>
+
+<body>
+
+
+
+	
+
+
+
+
+
+
+
+
+
+<panel>
+	<fieldset style="clear:both" id="description">
+	<label>Description</label>
+
+		<div>
+			
+Compatible with iOS 8, 9, 10 and 11<Br>
+<Br>
+ABetterPrivacyforWhatsApp gives you Various Enhancement options useful for your Privacy and Aesthetic on WhatsApp.<Br>
+<Br>
+See Screenshots below. <Br>
+<Br>
+No Respring Needed for enabling and disabling the Tweak.<Br>
+<Br>
+Configure options from Settings.<Br>
+<Br>
+Credits in Preferences Panel.<Br>
+<Br>
+Feel free to contact me via Mail or via Twitter @CydiaGeek, enjoy it, thanks! :)<Br>
+<br>
+<a href="https://www.paypal.me/CydiaGeek" target="_new">Donations</a> would be greatly appreciated!<br>
+
+
+
+<br>
+<div style="text-align:center;"> 
+<img width="132" height="234" src="abetterprivacyforwhatsapp1.jpg" /> 
+<img width="132" height="234" src="abetterprivacyforwhatsapp2.jpg" /> 
+</div>
+<div style="text-align:center;"> 
+<img width="132" height="234" src="abetterprivacyforwhatsapp3.jpg" /> 
+<img width="132" height="234" src="abetterprivacyforwhatsapp4.jpg" /> 
+</div>
+<div style="text-align:center;"> 
+<img width="132" height="234" src="abetterprivacyforwhatsapp5.jpg" /> 
+<img width="132" height="234" src="abetterprivacyforwhatsapp6.jpg" /> 
+</div>
+<p>
+See more Screenshots below..
+
+			
+		</div>
+	</fieldset>
+
+
+	<fieldset>
+		<a class="button" href="abetterprivacyforwhatsappSS.php" target="_new">View All Screenshots</a>
+	</fieldset>
+	
+
+
+
+
+
+
+
+
+</panel>
+
+<script  type="text/javascript">
+ MakeImgLinks();
+</script>
+
+<center>Advertisements</center><br>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- bigboss 300x250 -->
+<ins class="adsbygoogle"
+	 style="display:inline-block;width:300px;height:250px"
+	 data-ad-client="ca-pub-2931268467240864"
+	 data-ad-slot="3724442049"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+<panel>
+
+	<fieldset style="clear:both">
+		<label>What's New</label>
+		<div>
+			
+Version 1.3.7<br>
+- Added the option to Remove the Times Limit when Stories Viewing (as Requested via Twitter/Mail). <br>
+- Fixed the option to Hide the Chat List Header Cell View.<br>
+<br>
+<br>
+Version 1.3.6<br>
+- Added some Colors :-) (libcolorpicker Dependency). <br>
+<br>
+(More Colors WA UI Customization to Come Next soon! )<br>
+<br>
+- Now you can Custom Select the Colors for the Background of your Text Messages in Chats (Idea ported from my Tweak WAMessageYellowBG available on My Repository.<br>
+- Now you can Custom Select the Colors for the Background of your Text Input View in Chats.<br>
+- Now you can Custom Select the Colors for the Background of your Chat List Header.<br>
+- Added the option to Hide the Chat List Header Cell View (as Requested via Twitter/Mail). <br>
+- Code Changes/Improvements for iOS 11.<br>
+
+<!--
+Version 1.3.5<br>
+- Added the option to Hide the Hide Microphone Tooltip (thanks patch by A_H_Rabie).<br>
+- Added the option to Stop the Continuous Vocals Playback in Row.<br>
+<br>
+<br>
+Version 1.3.4<br>
+- Added the option to Hide the GIF/Other app Search Pickers in the Media Gallery View.<br>
+- Fixed the Media Gallery View Crash when Enabled the Dark Mode Feature for WhatsApp.<br>
+
+
+<br>
+<br>
+Version 1.3.3<br>
+- Added the option to Enable the Dark Mode for WhatsApp (As Requested, the Feature is kind of Beta at this moment).<br>
+<br>
+<br>
+Version 1.3.2<br>
+- Added the option to Enable the Unlimited Media/Photos Sending in Chats.<br>
+- Added the option to Enable the Call Confirmation in Chats.<br>
+- Added the option to Enable the Video Call Conformation in Chats.<br>
+
+Version 1.3.1<br>
+- Added the option to Hide the Stickers Contents in Chats.<br>
+- Added the option to Hide the Caret in Chats while Typing.<br>
+- Fix Code.<br>
+
+Version 1.3<br>
+- Fixes for Latest Versions of WhatsApp.<br>
+- General Enhancements.<br>
+
+
+Version 1.2.9<br>
+- Added the option to Remove the Forwarded Icon in the Conversations (thanks cHAuHaN).<br>
+<br>
+- WhatsApp made major changes to their code base in latest update 2.18.90. It’s going to take some time to fix everything. DO NOT UPDATE (quote @FouadRaheb).<br>
+
+
+Version 1.2.8-1<br>
+- Fixed the Hide Archived Chats Feature not working on iOS 11.3.1 reported by Mail.<br>
+<br>
+<br>
+Version 1.2.8<br>
+- Added the option to Disable the Top Buttons Bar (iOS 11).<br>
+- Issue Fixes.<br>
+
+<!--
+Version 1.2.7<br>
+- Hopefully Fixed the Crashes on iOS 9 for some Users (thanks so much my Friend @karimouni24 for testing Stuff).<br>
+<br>
+Version 1.2.6<br>
+- Added the option to Hide All Texts in Chat.<br>
+- Added the option to Hide All Images in Chat.<br>
+
+Version 1.2.5<Br>
+- Added the option to Hide the Status Inside Images!<br>
+
+Version 1.2.4<br>
+- Added the option to Disable the All Messages User Interaction.<br>
+
+
+Version 1.2.3<br>
+- Added the option to Hide the Blocked Contacts Count in Account/Privacy (Requested by my Bro @lorenzo_noide). <br>
+- Added the iOS 11 Compatibility to the Hide StatusBar option.<br>
+<br>
+<br>
+Version 1.2.2<br>
+- Tested and Working Fine also on iOS 11.1.2.<br>
+- Changes in Prefs Labels.<br>
+- Code Cleanup.<br>
+
+<br>
+<br>
+Version 1.2.1<br>
+- Added the option to Hide All the Status View and in Reply.<br>
+- Added the option to Disable All the Status Reply.<br>
+- Added the option to Disable All the Status Gestures.<br>
+
+
+Version 1.2.0<br>
+- Added the option to Disable the Connection to the Network.<br>
+- Now you can Email Me with the New Label in Preferences Panel.<br>
+- Change in Settings Panel Label.<br>
+
+Version 1.1.9<br>
+- Added the option to Hide the Recording Camera Hint.<br>
+- Added the option to Disable the Camera Dismiss Gesture.<br>
+- Added the option to Disable the Gesture to Switch the Camera.<br>
+- Added the option to Disable the Auto-creation of Albums (Twitter Request).<br>
+- Added the option to Show the StatusBar on the Landscape Mode
+(Updates options tips by iknotum).<br>
+- Fixes in the Preferences Labels Panel.<br>
+<br>
+<br>
+Version 1.1.8<br>
+- Added the option to Hide the Message Info Receipts.<br>
+- Added the option to Hide My Status Viewers.<br>
+
+
+Version 1.1.7<br>
+- Added the option to Enable the Blue Tints.<br>
+- Added the option to Disable the Vocal Messages New Lock Feature (tip by iknotum).<br>
+- Added the option to Fade the StatusBar when opening WhatsApp.<br>
+- Added the option to Make WhatsApp bouncing.<br>
+
+
+
+Version 1.1.6<br>
+- Added the option to Hide Chats Times Views.<br>
+- Added the option to Hide Messages Forwarding Popup.<br>
+<br>
+<br>
+Version 1.1.5<br>
+- Added the option to Disable Vocals Playing.<br>
+- Added the option to Hide Vocals Playing.<br>
+- Added the Label to Check Other Tweaks by Me on BigBoss Repo.<br>
+
+
+Version 1.1.4<Br>
+- Added the option to Hide the Image Preview in Chats.<Br>
+
+Version 1.1.3<br>
+- Added the option to Hide the Top Navigation Labels (Status, Chat and Settings).<br>
+<br>
+<br>
+Version 1.1.2<br>
+- Added the option to Enable Transparent Background when scrolling.<br>
+- Added the option to Hide the Tab Bar Labels.<br>
+- Added the option to Hide the Tab Bar Selected Indicators.<br>
+
+
+Version 1.1.1<br>
+- Added the option to Hide StatusBar on WhatsApp.<br>
+
+
+Version 1.1<br>
+- Added the option to Hide Status Outside Image.<br>
+<br>
+<br>
+Version 1.0.9<br>
+- Added the option to Hide Calls History Views.<br>
+- Added Twitter, My Repo and Donations Icons Labels.<br>
+
+<br>
+<br>
+Version 1.0.8<Br>
+- Added the option to Hide Chats Views.<Br>
+- Added the option to Hide Chats Left/Right Swipe Buttons Icons.<Br>
+- Added the option to Hide Chats Left/Right Swipe Buttons Titles.<Br>
+- Added the option to Hide Tab Bar Highlights.<Br>
+- Added the option to Hide Tab Bar Icons (Status, Calls, Chat and Settings).<Br>
+
+Version 1.0.7<br>
+- Added the option to Disable Links Highlights in Chats.<br>
+<br>
+<br>
+Version 1.0.6<Br>
+- Added the option to Hide Video Call Button in Chats.<Br>
+<Br>
+<Br>
+Version 1.0.5<br>
+- Added the option to Hide Emojis Sent View.<br>
+<br>
+<br>
+
+Version 1.0.4<br>
+- Added the option to Delete/Revoke Messages for All (thanks iknotum for the tip).<br>
+<br>
+<br>
+Version 1.0.3<br>
+- Added the option to Empty Archived Chats.<br>
+- Added the option to Disable Archived Chats.<br>
+- Added the option to Hide Chats Searching.<br>
+- Added the option to Show Messages Preview in Notifications (Experimental for iOS 7, requested by User Mail).<br>
+
+<br>
+<br>
+Version 1.0.2<br>
+- Added the option to Enable FullScreen Mode.<br>
+- Added Compatibility to Hide Archived Chats Feature on WhatsApp Version 2.17.60. <br>
+- Now you can Donate Me (thanks so much) with the New Label in Preferences Panel.<br>
+- Changes in Label Description in Prefs.<br>
+
+
+Version 1.0.1<br>
+- Added the option to Disable the Played Receipts (Privacy Feature).<br>
+- Added the option to Hide the Unread Dividers in Chats (Aesthetic Feature). <br>
+- Added the option to Enable the Square Pictures/Thumbnails (Aesthetic Feature). <br>
+- Added the option to Disable the App Rotation (Experimental Feature).<br>
+-->
+
+		</div>
+	</fieldset>
+
+
+	
+</panel>
+
+
+
+
+<panel>
+
+	<fieldset style="clear:both">
+		<label>Information</label>
+		<div>
+		<table class="information" cols="2" border="0">
+		<tr>
+			<td class="key">Updated</td>
+			<td class="detail">February 13, 2019</td>
+		</tr>
+		
+		<tr>
+			<td class="key">License</td>
+			<td class="detail">Free Package</td>
+		</tr>
+		
+				
+
+		</table>
+		</div>
+	</fieldset>
+
+
+
+	<fieldset style="clear:both">
+		<a class="button"href="https://www.paypal.me/CydiaGeek">Donate to Developer</a>
+	</fieldset>
+
+
+
+
+
+
+	<fieldset style="clear:both">
+		<a class="button" href="http://mobile.twitter.com/CydiaGeek">Developer Twitter</a>
+	</fieldset>
+
+
+
+
+
+
+
+
+	<fieldset style="clear:both">
+		<a class="button" href="http://apt.thebigboss.org/developer-packages.php?name=ABetterPrivacyforWhatsApp&uuid=&ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.61 Safari/537.36&ip=67.1.249.252&id=67.1.249.252">Developer Packages</a>
+	</fieldset>
+
+
+
+
+
+
+<!--
+	<fieldset style="clear:both">
+		<a class="button" href="Advertise.php">Advertise in Cydia</a>
+	</fieldset>
+		
+-->	
+
+</panel>
+
+
+
+<panel>
+	<fieldset style="clear:both">
+		<a class="button" href="https://twitter.com/BigBoss">Follow @BigBoss on Twitter</a>
+	</fieldset>
+</panel>
+
+
+
+<center><a href="Terms.php">Terms and Conditions</a></center>
+<br>
+
+<center>Advertisements</center><br>
+
+
+</body>
+</html>

@@ -223,3 +223,19 @@ Tag: compatible::ios12
 MD5sum: aad62614b94229bc1595a70511e266e0
 SHA1: 9b797b82d068ef1f7d01482885c526e4cd1a26b3
 SHA256: 15e51990ed61f3253735be170d3a2bd8c0b7cc2512c3bf9c6436f6a096ff2711
+
+Package: com.opticity.transparentdock
+Name: Transparent Dock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome new see through dock!
+Maintainer: Chris Venos
+Author: Chris Venos
+Section: Tweaks
+Version: 0.1-1+debug
+Filename: /debs/com.opticity.transparentdock_0.1-1+debug.deb
+Size: 9732
+Tag: compatible::ios12
+MD5sum: 6014e3b6032299b58ff664c6ffc91106
+SHA1: ac0acae6a2c869751279fc1a949fd2b6350b06e2
+SHA256: 02d20a0c92ff91ea3c6c001fd30745e1d408fdabf0d59af01007fbd57c1a7bb3
