@@ -2,7 +2,7 @@
 
 ![Opticity Icon](https://raw.githubusercontent.com/Cvenos/opticity/master/CydiaIcon.png)
 
-This is my first Cydia repo to make. I will be putting iOS 12 compatible tweaks on this repo. Feel free to add it to Cydia by clicking the link. I am NOT affiliated with any of the developers of these tweaks and can NOT help you diagnose tweaks. However, I can help diagnose errors when installing the tweaks.
+Opticity is a simple repo that has obviously Cydia/Sileo tweaks on it. I try to have only iOS 12 Jailbrek by [pwn20wnd](https://twitter.com/Pwn20wnd)
 
 [Add it to Cydia/Sileo!](cydia://url/https://cydia.saurik.com/api/share#?source=https://cvenos.github.io/opticity/)
 
