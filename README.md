@@ -5,4 +5,4 @@ This is my first Cydia repo to make. I will be putting iOS 12 compatible tweaks 
 [Add it to Cydia/Sileo!](cydia://url/https://cydia.saurik.com/api/share#?source=https://cvenos.github.io/opticity/)
 
 ## Getting Support
-*Contact me on twitter [OpticRanger2702](https://twitter.com/opticranger2702)
+* Contact me on twitter [OpticRanger2702](https://twitter.com/opticranger2702)
