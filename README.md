@@ -11,7 +11,7 @@ Opticity is a simple repo that has obviously Cydia/Sileo tweaks on it. I try to 
 * Contact me on twitter [OpticRanger2702](https://twitter.com/opticranger2702)
 
 ## Features
--[x] **Free Hosting**
--[x] **Tweaks up on the repo within a day
--[] **Depictions**
--[] **Paid packages
+- [x] **Free Hosting**
+- [x] **Tweaks up on the repo within a day
+- [] **Depictions**
+- [] **Paid packages
