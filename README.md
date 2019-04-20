@@ -8,7 +8,7 @@ Opticity is a simple repo that has obviously Cydia/Sileo tweaks on it. I try to 
 [Add to Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://cvenos.github.io/opticity/)
 
 ## Getting Support
-* Contact me on twitter [OpticRanger2702](https://twitter.com/opticranger2702)
+* Contact me via twitter [OpticRanger2702](https://twitter.com/opticranger2702)
 
 ## Features
 - [x] **Free Hosting**
