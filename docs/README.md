@@ -15,3 +15,4 @@ Opticity is a simple repo that has obviously Cydia/Sileo tweaks on it. I try to 
 ## Getting Support
 * Contact me via twitter [OpticRanger2702](https://twitter.com/opticranger2702)
 
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
