@@ -14,11 +14,6 @@
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
 		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
