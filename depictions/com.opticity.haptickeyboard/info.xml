@@ -1,6 +1,6 @@
 <package>
 	<id>com.opticity.haptickeyboard</id>
-	<name>Old Package</name>
+	<name>HapticKeyboard</name>
 	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
