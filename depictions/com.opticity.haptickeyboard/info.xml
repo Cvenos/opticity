@@ -8,7 +8,7 @@
 			<otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>mobilsubstrate</dependencies>
 	<descriptionlist>
 		<description>Taptic feedback for keyboard.</description>
 	</descriptionlist>
