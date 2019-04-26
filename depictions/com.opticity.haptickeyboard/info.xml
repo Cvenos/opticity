@@ -10,7 +10,7 @@
 	</compatibility>
 	<dependencies>mobilsubstrate</dependencies>
 	<descriptionlist>
-		<description>Compatible with iOS 9-10
+		<description> <p>Compatible with iOS 9-10</p>
 
 Haptic feedback for keyboard. Devices must already support haptic feedback feature.
 
