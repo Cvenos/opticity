@@ -11,8 +11,11 @@
 	<dependencies>mobilsubstrate</dependencies>
 	<descriptionlist>
 		<description>Compatible with iOS 9-10
-							Haptic feedback for keyboard. Devices must already support haptic feedback feature.
+
+Haptic feedback for keyboard. Devices must already support haptic feedback feature.
+
 Configure options from Settings.app (Settings > HapticKeyboard)
+
 No screenshots for this item.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
