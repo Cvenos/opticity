@@ -1,0 +1,10 @@
+Package: com.opticity.haptickeyboard
+Name: HapticKeyboard
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Taptic feedback for keyboard.
+Maintainer: Opticity
+Author: cole cabral @ca13ra1
+Section: Tweaks
+Version: 1.0.0
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.haptickeyboard

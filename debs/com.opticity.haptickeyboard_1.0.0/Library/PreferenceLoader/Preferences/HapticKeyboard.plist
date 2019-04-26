@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "HapticKeyboardSettings";
+		cell = PSLinkCell;
+		detail = "HKPreferenceController";
+		icon = "HK.png";
+		isController = 1;
+		label = "HapticKeyboard";
+	};
+}
