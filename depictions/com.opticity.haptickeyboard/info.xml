@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<maxiOS>7.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
