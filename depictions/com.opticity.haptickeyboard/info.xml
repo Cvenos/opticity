@@ -1,4 +1,4 @@
-<package>
+fff<package>
 	<id>com.opticity.haptickeyboard</id>
 	<name>HapticKeyboard</name>
 	<version>1.0.0</version>
@@ -10,7 +10,7 @@
 	</compatibility>
 	<dependencies>mobilsubstrate</dependencies>
 	<descriptionlist>
-        <description>Compatible with iOS 9-10. &#xA; Haptic feedback for keyboard. Devices must already support haptic feedback feature. Configure options from Settings (Settings > HapticKeyboard. No screenshots for this item.</description>
+        <description>Compatible with iOS 9-10.\n Haptic feedback for keyboard. Devices must already support haptic feedback feature. Configure options from Settings (Settings > HapticKeyboard. No screenshots for this item.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
