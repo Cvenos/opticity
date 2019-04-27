@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="dummy.xsl"?>
+<package>
+	<id>com.opticity.transparentdock</id>
+	<name>Transparent Dock</name>
+	<version>0.1-1+debug</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilsubstrate</dependencies>
+	<descriptionlist>
+        <description>An awesome new see through dock!</description>
+        <description>No options to configure.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>screenshot1.</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
