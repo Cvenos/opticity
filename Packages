@@ -8,6 +8,7 @@ Author: julioverne
 Section: Tweaks
 Size: 132318
 Version: 0.0~beta4
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.lockanim
 Filename: /debs/com.opticity.lockanim_0.0_beta4.deb
 Tag: compatible::ios12
 MD5sum: 009f7fd0b3196a047def4b7d17fc06a6
@@ -23,6 +24,7 @@ Maintainer: Opticity
 Author: Jake James
 Section: Tweaks
 Version: 1.0.1
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.realcc
 Filename: /debs/com.opticity.realcc_1.0.1.deb
 Size: 4166
 Tag: compatible::ios12
@@ -40,6 +42,7 @@ Maintainer: Opticity
 Author: LaughingQuoll
 Section: Tweaks
 Version: 1.3.2
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.noctis12
 Filename: /debs/com.opticity.noctis12_1.3.2.deb
 Size: 220252
 Tag: compatible::ios12
@@ -57,6 +60,7 @@ Maintainer: Opticity
 Author: LaughingQuoll
 Section: Tweaks
 Version: 1.4
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.noctis12
 Filename: /debs/com.opticity.noctis12_1.4.deb
 Size: 223624
 Tag: compatible::ios12
@@ -73,6 +77,7 @@ Maintainer: Opticity
 Author: Alex Sanchez
 Section: Themes
 Version: 1.8
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.amury
 Filename: /debs/com.opticity.amury.deb
 Size: 6499268
 Tag: compatible::ios12
@@ -89,6 +94,7 @@ Maintainer: Opticity
 Author: magn2o
 Section: Tweaks
 Version: 1.3
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.alkaline
 Filename: /debs/com.opticty.alkaline_1.3.deb
 Size: 172760
 Tag: compatible::ios12
@@ -105,6 +111,7 @@ Maintainer: Opticity
 Author: Reed Weichler
 Section: Tweaks
 Version: 1.0.6
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.cylinder
 Filename: /debs/com.opticity.cylinder_1.0.6.deb
 Size: 332248
 Tag: compatible::ios12
@@ -121,6 +128,7 @@ Maintainer: Opticity
 Author: orenjiiiro
 Section: Themes
 Version: 1.0
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.lotus
 Filename: /debs/com.opticity.lotus.deb
 Size: 6879172
 Tag: compatible::ios12
@@ -138,6 +146,7 @@ Maintainer: Opticity
 Author: LaughingQuoll
 Section: Tweaks
 Version: 1.6.6
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.noctisxi
 Filename: /debs/com.opticity.noctisxi_1.6.6.deb
 Size: 142510
 Tag: compatible::ios12
@@ -153,6 +162,7 @@ Maintainer: Opticity
 Author: Spark
 Section: System
 Version: 1.0.1-1
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.libsparkapplist
 Filename: /debs/com.opticity.libsparkapplist_1.0.1-1.deb
 Size: 35120
 Tag: compatible::ios12
@@ -168,6 +178,7 @@ Maintainer: Opticity
 Author: Spark
 Section: System
 Version: 1.0.2
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.libsparkapplist
 Filename: /debs/com.opticity.libsparkapplist_1.0.2.deb
 Size: 35200
 Tag: compatible::ios12
@@ -183,6 +194,7 @@ Maintainer: Opticity
 Author: Spark
 Section: System
 Version: 1.0.3
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.libsparkapplist
 Filename: /debs/com.opticity.libsparkapplist_1.0.3.deb
 Size: 67810
 Tag: compatible::ios12
@@ -201,6 +213,7 @@ Author: TIGI Software
 Section: Utilities
 Icon: file:///Applications/Filza.app/AppIcon57x57.png
 Version: 3.6.4
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.filza
 Filename: /debs/filzafilemanager_3.6.4.deb
 Size: 12394362
 Tag: purpose::uikit, compatible::ios12
@@ -234,7 +247,7 @@ Maintainer: Chris Venos
 Author: Chris Venos
 Section: Tweaks
 Version: 0.1-1+debug
-Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.haptickeyboard
+Depiction: https://cvenos.github.io/opticity/depictions/?p=com.opticity.transparentdock
 Filename: /debs/com.opticity.transparentdock_0.1-1+debug.deb
 Size: 9732
 Tag: compatible::ios12
