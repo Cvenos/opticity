@@ -12,7 +12,7 @@
 	</compatibility>
 	<dependencies>mobilsubstrate</dependencies>
 	<descriptionlist>
-        <description><string>Compatible with iOS 9-10.\n Haptic feedback for keyboard. \n Devices must already support haptic feedback feature. \n Configure options from Settings (Settings > HapticKeyboard. \n No screenshots for this item.</string></description>
+        <description>Compatible with iOS 9-10. Haptic feedback for keyboard. &#xD;Devices must already support haptic feedback feature. Configure options from Settings (Settings > HapticKeyboard. No screenshots for this item.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
