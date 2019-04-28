@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="dummy.xsl"?>
 <package>
 	<id>com.opticity.transparentdock</id>
 	<name>Transparent Dock</name>
@@ -12,8 +10,7 @@
 	</compatibility>
 	<dependencies>mobilsubstrate</dependencies>
 	<descriptionlist>
-        <description>An awesome new see through dock!</description>
-        <description>No options to configure.</description>
+        <description>An awesome new see through dock!<br><br>No options to configure.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
