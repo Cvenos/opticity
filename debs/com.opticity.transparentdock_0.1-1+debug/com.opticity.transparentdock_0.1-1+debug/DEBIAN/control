@@ -1,0 +1,10 @@
+Package: com.opticity.transparentdock
+Name: Transparent Dock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome new see through dock!
+Maintainer: Chris Venos
+Author: Chris Venos
+Section: Tweaks
+Version: 0.1-1+debug
+Depiction: https://cvenos.github.io/opticity/depictions/com.opticity.transparentdock/info.html
