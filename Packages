@@ -249,8 +249,8 @@ Section: Tweaks
 Version: 0.1-1+debug
 Depiction: https://cvenos.github.io/opticity/depictions/com.opticity.transparentdock/info.html
 Filename: /debs/com.opticity.transparentdock_0.1-1+debug.deb
-Size: 9732
+Size: 11468
 Tag: compatible::ios12
-MD5sum: 6014e3b6032299b58ff664c6ffc91106
-SHA1: ac0acae6a2c869751279fc1a949fd2b6350b06e2
-SHA256: 02d20a0c92ff91ea3c6c001fd30745e1d408fdabf0d59af01007fbd57c1a7bb3
+MD5sum: 14f5b7dd3bd8a2b3fba463fda6c1b4d0
+SHA1: 76b7f49cc1564c9c58163001857c3431e37f2bb6
+SHA256: ed3f014bc2420ec15cf4fad35581ce00aa551670a8d08d546b71f103f7e5319f
