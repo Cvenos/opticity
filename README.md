@@ -9,7 +9,7 @@ Opticity is a simple repo that has obviously Cydia/Sileo tweaks on it. I try to 
 ## Features
 - [x] **Free Hosting**
 - [x] **Tweaks up on the repo within a day**
-- [ ] **Depictions**
+- [x] **Depictions**
 - [ ] **Paid packages**
 
 ## Getting Support
