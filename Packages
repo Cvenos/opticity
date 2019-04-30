@@ -234,9 +234,9 @@ Depiction: https://cvenos.github.io/opticity/depictions/com.opticity.haptickeybo
 Filename: /debs/com.opticity.haptickeyboard_1.0.0.deb
 Size: 19394
 Tag: compatible::ios12
-MD5sum: aad62614b94229bc1595a70511e266e0
-SHA1: 9b797b82d068ef1f7d01482885c526e4cd1a26b3
-SHA256: 15e51990ed61f3253735be170d3a2bd8c0b7cc2512c3bf9c6436f6a096ff2711
+MD5sum: d7e628c7cf1b4351078f5f272f5b4c72
+SHA1: 549a1bb81fd33fc3a4c1ef9884cef31def1b274d
+SHA256: 2b69557088c9faa83aaf43c31c74b7a54358920a4c5b048a6a306d4e4295faa8
 
 Package: com.opticity.transparentdock
 Name: Transparent Dock
