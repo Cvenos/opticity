@@ -248,6 +248,7 @@ Author: Chris Venos
 Section: Tweaks
 Version: 0.1-1+debug
 Depiction: https://cvenos.github.io/opticity/depictions/com.opticity.transparentdock/info.html
+SileoDepiction: https://cvenos.github.io/opticity/depictions/com.opticity.transparentdock/info.json
 Filename: /debs/com.opticity.transparentdock_0.1-1+debug.deb
 Size: 11468
 Tag: compatible::ios12
