@@ -255,3 +255,21 @@ Tag: compatible::ios12
 MD5sum: 14f5b7dd3bd8a2b3fba463fda6c1b4d0
 SHA1: 76b7f49cc1564c9c58163001857c3431e37f2bb6
 SHA256: ed3f014bc2420ec15cf4fad35581ce00aa551670a8d08d546b71f103f7e5319f
+
+Package: com.opticity.stockplus
+Name: Stock Plus
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Architecture: iphoneos-arm
+Description: A theme with beautiful icons!
+Maintainer: Chris Venos
+Author: Chris Venos
+Section: Themes
+Version: 0.0.1
+Depiction: https://cvenos.github.io/opticity/depictions/com.opticity.stockplus/info.html
+SileoDepiction: https://cvenos.github.io/opticity/depictions/com.opticity.stockplus/info.json
+Filename: /debs/com.opticity.stockplus_0.0.1.deb
+Size: 30994
+Tag: compatible::ios12
+MD5sum: b10af05fe4c98fc696b74ef9ec7f3b29
+SHA1: d029ee8922e625391ee499cc81eae2e5b3c4db0f
+SHA256: e8159a27b13cd8fe28ff8275728c7fbc8f55b852211442423a64df8aa595e577
