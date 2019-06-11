@@ -1,78 +1,78 @@
 {
-    "headerImage": "",
+    "tintColor": "#0657bb",
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
     "tabs": [
         {
             "views": [
                 {
-                    "useBottomMargin": false,
                     "class": "DepictionSubheaderView",
-                    "title": "TransparentDock",
-                    "useBoldText": true
+                    "title": "StockPlus",
+                    "useBoldText": true,
+                    "useBottomMargin": false
                 },
                 {
-                    "markdown": "An awesome new see through dock!",
-                    "class": "DepictionMarkdownView",
-                    "useSpacing": true
+                    "useSpacing": true,
+                    "markdown": "A theme with beautiful icons!",
+                    "class": "DepictionMarkdownView"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemSize": "{160, 275.41333333333336}",
                     "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
                     "screenshots": [
                         {
-                            "url": "https://cvenos.github.io/opticity/depictions/com.opticity.transparentdock/screenshots/screenshot1.jpg",
+                            "url": "https://raw.githubusercontent.com/Cvenos/opticity/master/no-screenshot-available.jpg",
                             "accessibilityText": "Screenshot0"
                         }
                     ]
                 },
                 {
-                    "useBottomMargin": false,
-                    "markdown": "No options to configure\r\n\r\nNot compatible with iPad\r\n\r\nCompatible with iOS 12.",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
-                    "useBoldText": true
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "markdown": "Works on iOS 12.\r\n\r\nUse Anemone or Snowboard."
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.1-1+debug",
-                    "class": "DepictionTableTextView",
-                    "title": "Version"
+                    "title": "Version",
+                    "text": "0.0.1",
+                    "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "05-13-2019",
-                    "class": "DepictionTableTextView",
-                    "title": "Released"
+                    "title": "Released",
+                    "text": "06-11-2019",
+                    "class": "DepictionTableTextView"
                 },
                 {
+                    "title": "Price",
                     "text": "Free",
-                    "class": "DepictionTableTextView",
-                    "title": "Price"
+                    "class": "DepictionTableTextView"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
                 },
                 {
+                    "title": "Developer",
                     "text": "Chris Venos",
-                    "class": "DepictionTableTextView",
-                    "title": "Developer"
+                    "class": "DepictionTableTextView"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
                 }
             ],
-            "class": "DepictionStackView",
-            "tabname": "Details"
+            "tabname": "Details",
+            "class": "DepictionStackView"
         }
     ],
-    "class": "DepictionTabView",
-    "minVersion": "0.1",
-    "tintColor": "#0657bb"
+    "headerImage": ""
 }
